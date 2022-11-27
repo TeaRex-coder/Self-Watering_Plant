@@ -16,3 +16,7 @@ BOM:
  Optional
  
   • Soldering iron + pin header jumpers or wire crimppers/stripper + pin header
+
+Learn More
+Article: https://alexandreboutoille.medium.com/saving-6-5-hours-a-year-with-an-arduino-ea5ea6bf5319
+Video: https://www.youtube.com/watch?v=fu8aBxodavc
